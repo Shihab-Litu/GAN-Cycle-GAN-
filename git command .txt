@@ -1,0 +1,9 @@
+Right click on this folder.
+Git Bash Here.(click)
+
+
+
+press the command:
+
+python main.py --epoch 500--phase train
+python main.py --phase test--
